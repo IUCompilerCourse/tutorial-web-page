@@ -10,16 +10,15 @@ learning about compilers using the incremental approach. The tutorial
 provides a sneak-preview of a compiler course based on the new
 textbooks from MIT Press:
 
-[Essentials of Compilation: An Incremental Approach in Racket](https://mitpress.mit.edu/9780262047760/essentials-of-compilation/)
-[Essentials of Compilation: An Incremental Approach in Python](https://mitpress.mit.edu/9780262048248/essentials-of-compilation/)
+* [Essentials of Compilation: An Incremental Approach in Racket](https://mitpress.mit.edu/9780262047760/essentials-of-compilation/)
+* [Essentials of Compilation: An Incremental Approach in Python](https://mitpress.mit.edu/9780262048248/essentials-of-compilation/)
 
 PDFs for the books are available for free from my web page:
 
-[PDF for EoC (Racket)](https://www.dropbox.com/s/ktdw8j0adcc44r0/book.pdf?dl=1)
-[PDF for EoC (Python)](https://www.dropbox.com/s/mfxtojk4yif3toj/python-book.pdf?dl=1)
+* [PDF for EoC (Racket)](https://www.dropbox.com/s/ktdw8j0adcc44r0/book.pdf?dl=1)
+* [PDF for EoC (Python)](https://www.dropbox.com/s/mfxtojk4yif3toj/python-book.pdf?dl=1)
 
-
-## About Essential of Compilation
+## About Essentials of Compilation
 
 The EoC course takes students on a journey through constructing their
 own compiler for a small but powerful language. The standard approach
@@ -53,6 +52,7 @@ Please make sure to have one of them installed on your laptop.
 Download the EoC supporting code from github:
 
 [Python](https://github.com/IUCompilerCourse/python-student-support-code)
+
 [Racket](https://github.com/IUCompilerCourse/public-student-support-code)
 
 ## Python Specifics
