@@ -89,8 +89,8 @@ were successful.
 The file `compiler.rkt` is the skeleton code for your compiler.
 The goal will be to fill in the function `remove-complex-opera*`.
 
-You can test your implementation of `remove_complex_operands` by
-running the test script:
+You can test your implementation of the `remove-complex-opera*`
+function by running the test script:
 
     racket ./run-tests.rkt
 
@@ -108,7 +108,7 @@ The script runs an intepreter on the intermediate programs produced by
 each pass of your compiler to check whether they have the same result
 as the source program. 
 
-Once you have implemented the `remove_complex_operands` method,
+Once you have implemented the `remove-complex-opera*` function,
 uncomment the line for `remove complex opera*` in the
 `compiler-passes` list at the end of `compiler.rkt`. Run the script
 again and it should report `18` successes.
