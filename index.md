@@ -15,8 +15,8 @@ textbooks from MIT Press:
 
 PDFs for the books are available for free from my web page:
 
-* [PDF for EoC (Racket)](https://www.dropbox.com/s/ktdw8j0adcc44r0/book.pdf?dl=1)
-* [PDF for EoC (Python)](https://www.dropbox.com/s/mfxtojk4yif3toj/python-book.pdf?dl=1)
+* [PDF for EoC Book (Racket)](https://www.dropbox.com/s/ktdw8j0adcc44r0/book.pdf?dl=1)
+* [PDF for EoC Book (Python)](https://www.dropbox.com/s/mfxtojk4yif3toj/python-book.pdf?dl=1)
 
 ## About Essentials of Compilation
 
@@ -51,9 +51,9 @@ Please make sure to have one of them installed on your laptop.
 
 Download the EoC supporting code from github:
 
-[Python](https://github.com/IUCompilerCourse/python-student-support-code)
+[Python Repository](https://github.com/IUCompilerCourse/python-student-support-code)
 
-[Racket](https://github.com/IUCompilerCourse/public-student-support-code)
+[Racket Repository](https://github.com/IUCompilerCourse/public-student-support-code)
 
 ## Python Specifics
 
