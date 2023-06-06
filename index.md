@@ -1,6 +1,8 @@
 
 # Teaching and Learning Compilers Incrementally
 
+![Book Cover for Essentials of Compilation (Racket)](https://mit-press-us.imgix.net/covers/9780262047760.jpg?auto=format&w=298&dpr=1&q=20)![Book Cover for Essentials of Compilat (Python)](https://mit-press-us.imgix.net/covers/9780262048248.jpg?auto=format&w=298&dpr=1&q=20)
+
 Instructor: Jeremy Siek
 
 Welcome to the half-day tutorial for Essentials of Compilation (EoC)!
@@ -18,24 +20,23 @@ PDFs for the books are available for free from my web page:
 * [PDF for EoC Book (Racket)](https://www.dropbox.com/s/ktdw8j0adcc44r0/book.pdf?dl=1)
 * [PDF for EoC Book (Python)](https://www.dropbox.com/s/mfxtojk4yif3toj/python-book.pdf?dl=1)
 
-![Book Cover for Essentials of Compilation (Racket)](https://mit-press-us.imgix.net/covers/9780262047760.jpg?auto=format&w=298&dpr=1&q=20)
-
 
 ## About Essentials of Compilation
 
-The EoC course takes students on a journey through constructing their
-own compiler for a small but powerful language. The standard approach
-to describing and teaching compilers is to proceed one pass at a time,
-from the front to the back of the compiler. Unfortunately, that
-approach obfuscates how language features motivate design choices in a
-compiler. In the EoC course we instead take an incremental approach in
-which we build a complete compiler every two weeks, starting with a
-small input language that includes only arithmetic and variables. We
-add new language features in subsequent iterations, extending the
-compiler as necessary. Student get immediate positive feedback as they
-see their compiler passing test cases and then learn important lessons
-regarding software engineering as they grow and refactor their
-compiler throughout the semester.
+The EoC textbook and course takes students on a journey through
+constructing their own compiler for a small but powerful language. The
+standard approach to describing and teaching compilers is to proceed
+one pass at a time, from the front to the back of the
+compiler. Unfortunately, that approach obfuscates how language
+features motivate design choices in a compiler. In the EoC course we
+instead take an incremental approach in which we build a complete
+compiler every two weeks, starting with a small input language that
+includes only arithmetic and variables. We add new language features
+in subsequent iterations, extending the compiler as necessary. Student
+get immediate positive feedback as they see their compiler passing
+test cases and then learn important lessons regarding software
+engineering as they grow and refactor their compiler throughout the
+semester.
 
 ## Tutorial
 
