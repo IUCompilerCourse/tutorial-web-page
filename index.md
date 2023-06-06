@@ -18,6 +18,9 @@ PDFs for the books are available for free from my web page:
 * [PDF for EoC Book (Racket)](https://www.dropbox.com/s/ktdw8j0adcc44r0/book.pdf?dl=1)
 * [PDF for EoC Book (Python)](https://www.dropbox.com/s/mfxtojk4yif3toj/python-book.pdf?dl=1)
 
+![Book Cover for Essentials of Compilation (Racket)](https://mit-press-us.imgix.net/covers/9780262047760.jpg?auto=format&w=298&dpr=1&q=20)
+
+
 ## About Essentials of Compilation
 
 The EoC course takes students on a journey through constructing their
