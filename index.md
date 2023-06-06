@@ -1,7 +1,7 @@
 
 # Teaching and Learning Compilers Incrementally
 
-![Book Cover for Essentials of Compilation (Racket)](https://mit-press-us.imgix.net/covers/9780262047760.jpg?auto=format&w=298&dpr=1&q=20)![Book Cover for Essentials of Compilat (Python)](https://mit-press-us.imgix.net/covers/9780262048248.jpg?auto=format&w=298&dpr=1&q=20)
+![Book Cover for Essentials of Compilation (Racket)](https://mit-press-us.imgix.net/covers/9780262047760.jpg?auto=format&w=298&dpr=1&q=20)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Book Cover for Essentials of Compilat (Python)](https://mit-press-us.imgix.net/covers/9780262048248.jpg?auto=format&w=298&dpr=1&q=20)
 
 Instructor: Jeremy Siek
 
